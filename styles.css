@@ -144,6 +144,10 @@ a:hover {
         display: block;
         text-align: center;
     }
+    
+     .info-text {
+        margin-left: 0px;
+    }
 
     .form-row {
         display: block;
